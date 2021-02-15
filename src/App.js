@@ -55,4 +55,6 @@ function App() {
 
 // note
 
+// add logic for theme change
+
 export default App;
